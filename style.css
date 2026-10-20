@@ -108,7 +108,7 @@ body {
 
 .quote {
     background-color:#e5e7eb;
-    padding: 0 300px;
+    padding: 50px 300px;
 }
 
 .quote p {
@@ -126,5 +126,5 @@ body {
 .quote .source {
     text-align: right;
     font-weight: bold;
-    margin-right: 30px;
+    margin-right: 40px;
 }
