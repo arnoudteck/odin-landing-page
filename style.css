@@ -108,6 +108,12 @@ body {
 
 .quote {
     background-color:#e5e7eb;
+    padding: 0 300px;
+}
+
+.quote p {
+    margin: 0;
+    padding: 0;
 }
 
 .quote .quote {
