@@ -4,9 +4,14 @@ body {
 
 .header {
     background-color: #1F2937;
+    display: flex;
 }
 
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
+}
+
+.header-links {
+    display: flex;
 }
