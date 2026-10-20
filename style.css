@@ -32,7 +32,13 @@ body {
 }
 
 .hero {
-    
+    display: flex;
+    align-items: center;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
 }
 
 .hero-text h1 {
