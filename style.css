@@ -122,3 +122,9 @@ body {
     font-weight: 300px;
     font-style: italic;
 }
+
+.quote .source {
+    text-align: right;
+    font-weight: bold;
+    margin-right: 30px;
+}
