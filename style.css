@@ -24,7 +24,8 @@ body {
 
 .header-links a {
     text-decoration: none;
-    color: #F9FAF8;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .hero {
