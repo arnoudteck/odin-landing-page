@@ -105,3 +105,14 @@ body {
     aspect-ratio: 1/1;
     border-radius: 20px;
 }
+
+.quote {
+    background-color:#e5e7eb;
+}
+
+.quote .quote {
+    color:#1F2937;
+    font-size: 36px;
+    font-weight: 300px;
+    font-style: italic;
+}
