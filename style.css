@@ -17,4 +17,11 @@ body {
 
 .header-links {
     display: flex;
+    list-style: none;
+    gap: 32px;
+}
+
+.header-links a {
+    text-decoration: none;
+    color: #F9FAF8;
 }
