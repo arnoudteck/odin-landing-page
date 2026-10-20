@@ -97,4 +97,11 @@ body {
 
 .cards {
     display: flex;
+    gap: 32px;
+}
+
+.card .image {
+    border: #3882f6 solid 5px;
+    aspect-ratio: 1/1;
+    border-radius: 20px;
 }
