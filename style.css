@@ -128,3 +128,9 @@ body {
     font-weight: bold;
     margin-right: 40px;
 }
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
