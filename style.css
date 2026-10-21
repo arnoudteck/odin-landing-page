@@ -62,7 +62,7 @@ body {
     padding: 0 0 16px 0;
 }
 
-.hero-text button {
+button {
     background-color: #3882f6;
     color: #f9faf8;
     border: none;
@@ -152,4 +152,8 @@ body {
 
 .call-to-action .text-container p {
     font-size: 12px;
+}
+
+.call-to-action button {
+    border: #F9FAF8 solid 1px;
 }
