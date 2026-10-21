@@ -1,6 +1,7 @@
 body {
     font-family: Roboto, sans-serif;
     margin: 0;
+    background-color:#F9FAF8
 }
 
 .header-hero-container {
@@ -131,15 +132,24 @@ body {
 
 .call-to-action {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     background-color:#3882f6;
     margin: 50px 250px;
     border-radius: 5px;
-    padding: 25px;
+    padding: 25px 60px;
 }
 
 .call-to-action .text-container div,
 .call-to-action .text-container p {
     margin: 0;
+    color:#F9FAF8
+}
+
+.title {
+    font-weight: bold;
+}
+
+.call-to-action .text-container p {
+    font-size: 12px;
 }
