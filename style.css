@@ -157,3 +157,12 @@ button {
 .call-to-action button {
     border: #F9FAF8 solid 1px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#1F2937;
+    color:#e5e7eb;
+    padding: 32px;
+}
