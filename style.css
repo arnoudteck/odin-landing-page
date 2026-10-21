@@ -133,4 +133,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color:#3882f6;
+    margin: 50px 250px;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.call-to-action .text-container div,
+.call-to-action .text-container p {
+    margin: 0;
 }
